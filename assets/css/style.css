@@ -1,0 +1,19 @@
+.navbar {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+}
+
+.portfolio {
+    font-family: 'Roboto', sans-serif;
+}
+
+#work {
+    font-family: 'Fredoka One', cursive;
+}
+
+.card-img-overlay {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
