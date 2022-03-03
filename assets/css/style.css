@@ -8,6 +8,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+#about {
+    font-family: 'Fredoka One', cursive;
+}
+
 #work {
     font-family: 'Fredoka One', cursive;
 }
@@ -16,4 +20,8 @@
     width: 100%;
     height: 15vw;
     object-fit: cover;
+}
+
+.card {
+    border: none;
 }
