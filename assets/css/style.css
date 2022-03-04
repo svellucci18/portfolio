@@ -25,3 +25,32 @@
 .card {
     border: none;
 }
+
+img {
+    max-height: 150px;
+}
+
+.container {
+    padding: 5%;
+}
+
+#blackLines {
+    object-fit: cover;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.list-group.list-group-horizontal{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.list-group.list-group-horizontal .list-group-item {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 255, 213);
+    padding-top: 30px;
+    padding-bottom: 30px;;
+}
